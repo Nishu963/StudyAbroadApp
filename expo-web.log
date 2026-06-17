@@ -1,0 +1,12 @@
+
+> studyabroadapp@1.0.0 web
+> expo start --web --port 8082
+
+Starting project at C:\Users\nishu\StudyAbroadApp
+Using src/app as the root directory for Expo Router.
+React Compiler enabled
+Starting Metro Bundler
+
+Waiting on http://localhost:8082
+Logs for your project will appear below.
+ WARN  Failed to download the latest version of React Native DevTools. Using a fallback version instead. Connect to the internet or check your network settings.
