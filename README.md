@@ -37,3 +37,5 @@ src/
     [id].tsx
   data.ts
 ```
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/0a749c31-7aa1-410e-a8da-f3571536b65a" />
+<img width="958" height="497" alt="image" src="https://github.com/user-attachments/assets/0cadef9a-be75-4b7b-bdcb-6ab793f7d57a" />
